@@ -40,14 +40,6 @@ sudo [파일명] set temp rh
 
 ---
 
-### 🧠 시스템 흐름도
-
-아래는 STM32에서 get/set 명령을 처리하는 전체 동작 구조입니다:
-
-![Flowchart_stm32](https://github.com/user-attachments/assets/19b13c28-3689-4364-9632-b105a0cbc76d)
-
----
-
 ### ✅ 요약
 
 - Ubuntu에서 `sudo` 명령을 통해 STM32로 UART 명령 전송  
