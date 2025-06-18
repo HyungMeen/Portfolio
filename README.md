@@ -1,16 +1,37 @@
-# Portfolio
+# 📁 HyungMeen's Embedded Portfolio
 
-# folder-index
- - MCU/MICOM
-   - Atmega
-     - Atmega128A
-     - Atmega1280
-   - STM32
-     - STM32F722ZE
-     - STM32L451VE
- - EC
-   - ITE
-     - ITE8518
-   - Microchip
-     - MEC1521
-     
+안녕하세요, 임베디드 시스템 개발자 박형민입니다.  
+이 리포지토리는 제가 실제로 다룬 MCU/칩 기반의 프로젝트들을 정리한 포트폴리오입니다.
+
+---
+
+## 📌 MCU별 프로젝트 분류
+
+### 🔷 MEC1521
+
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| UART Logger | MEC1521의 UART를 사용하여 외부 장치 디버깅 및 로그 수집
+| GPIO Toggle | MEC1521의 GPIO를 주기적으로 토글하여 LED 점멸 확인
+
+---
+
+### 🔷 ATmega128A
+
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| Smart Fan Controller | 온도 센서를 기반으로 팬을 자동 제어 (PWM 제어)
+| UART 7-Segment Display | UART 수신값을 7세그먼트에 표시
+
+---
+
+### 🔷 STM32F103
+
+| 프로젝트명 | 설명 | 링크 |
+|------------|------|------|
+| ADC 온도 측정 | STM32 ADC를 사용하여 온도 센서 읽기 
+
+---
+
+## 📁 폴더 구성 예시
+
