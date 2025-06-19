@@ -134,9 +134,6 @@
 ### 📁 폴더 구조 예시
 
 ```
-## 📁 폴더 구조 예시
-
-```
 Portfolio/
 ├── ATmega128A/
 │   ├── USB_PowerControl/
@@ -149,7 +146,5 @@ Portfolio/
 ├── MEC1521/
 ├── MEC1723/
 └── README.md
-```
-
 ```
 
