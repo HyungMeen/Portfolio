@@ -47,6 +47,12 @@
 | EC RAM 제어 | SIO 레지스터를 통해 EC RAM 데이터 읽기/쓰기 |
 | 개발 환경 | Windows 7 + Legacy ITE SDK + 직접 제작한 InpOut32.dll |
 
+🔗 세부 폴더:  
+- [IT8518](./IT8518)
+
+📁 폴더: `IT8518/`  
+개발환경: Visual Studio + Windows 7
+
 ---
 
 ### 🟦 STM32L451VE
