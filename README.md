@@ -93,8 +93,9 @@
 
 ---
 
-## 📂 폴더 구조 예시
+### 📁 폴더 구조 예시
 
+```
 Portfolio/
 ├── MEC1521/
 ├── MEC1723/
@@ -104,3 +105,5 @@ Portfolio/
 │   └── sensor_system/
 ├── STM32H503RB/
 └── README.md
+```
+
