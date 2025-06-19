@@ -34,7 +34,7 @@
 | 세그먼트 표시  | UART 수신값을 2채널(3자리씩) 7세그먼트에 출력 |
 
 🔗 세부 폴더:
-- [USB_PowerControl](./ATmega128A/USB_PowerControl)
+- [USB_PowerControl](./Atmega128A/USB_PowerControl)
 - [segment_display](./ATmega128A/segment_display)
 
 📁 폴더: `ATmega128A/`  
