@@ -35,7 +35,7 @@
 | 명령 인터페이스 | - UART 기반 `get`, `set` 명령 처리 |
 | 타이밍/인터럽트 | - TIM6 타이머 인터럽트<br>- EXTI 버튼 입력 처리<br>- 마이크로초 딜레이(DWT Timer) |
 
-🔗 자세한 구현 내용: [STM32/API](./MCU(MICOM)/STM32/STM32L451VE)
+🔗 자세한 구현 내용: [STM32/sensor_system](./STM32L451VE/sensor_system)
 
 ---
 
@@ -43,4 +43,4 @@
 
 - `MEC1521/` : MEC1521 기반 Zephyr 테스트 코드  
 - `ATmega128A/` : Atmel Studio 기반 AVR 코드  
-- `STM32/` : STM32CubeIDE 기반 HAL 프로젝트, 하위에 `/API` 등 기능별 폴더 구성
+- `STM32L451VE/` : STM32CubeIDE 기반 HAL 프로젝트, 하위에 `/can_test`, '/sensor_system 기능별 폴더 구성
