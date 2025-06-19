@@ -97,13 +97,13 @@
 
 ```
 Portfolio/
-├── MEC1521/
-├── MEC1723/
 ├── ATmega128A/
 ├── STM32L451VE/
 │   ├── can_test/
 │   └── sensor_system/
 ├── STM32H503RB/
+├── MEC1521/
+├── MEC1723/
 └── README.md
 ```
 
