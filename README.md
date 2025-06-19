@@ -37,6 +37,18 @@
 
 ---
 
+### 🔷 IT8518
+
+| 구현 항목 | 설명 |
+|-----------|------|
+| EC GPIO 제어 | InpOut32.dll을 사용하여 GPIO 직접 On/Off |
+| PWM 제어 | 레지스터 접근을 통한 PWM Duty 조절 |
+| Port80 Read | BIOS POST 코드 수신 및 표시 |
+| EC RAM 제어 | SIO 레지스터를 통해 EC RAM 데이터 읽기/쓰기 |
+| 개발 환경 | Windows 7 + Legacy ITE SDK + 직접 제작한 InpOut32.dll |
+
+---
+
 ### 🟦 STM32L451VE
 
 | 카테고리          | 구현한 기능                                              |
