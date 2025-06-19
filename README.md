@@ -35,7 +35,7 @@
 
 🔗 세부 폴더:
 - [USB_PowerControl](./Atmega128A/USB_PowerControl)
-- [segment_display](./ATmega128A/segment_display)
+- [segment_display](./Atmega128A/segment_display)
 
 📁 폴더: `ATmega128A/`  
 개발환경: Microchip Studio (코드 작성) / AVR Studio 4 + USBasp (업로드)
