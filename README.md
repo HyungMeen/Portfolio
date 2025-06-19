@@ -28,13 +28,28 @@
 
 ### 🟦 ATmega128A
 
-| 프로젝트명            | 설명                                |
-|-----------------------|-------------------------------------|
-| Smart Fan Controller  | 온도 기반 자동 팬 제어 (PWM)           |
-| UART 7-Segment Display| UART 수신값 7세그먼트에 실시간 표시     |
+| 카테고리       | 구현한 기능 |
+|----------------|-------------|
+| I2C 슬레이브   | 마스터로부터 전압 수신 후 릴레이 제어 |
+| 세그먼트 표시  | UART 수신값을 2채널(3자리씩) 7세그먼트에 출력 |
+
+🔗 세부 폴더:
+- [USB_PowerControl](./ATmega128A/USB_PowerControl)
+- [segment_display](./ATmega128A/segment_display)
 
 📁 폴더: `ATmega128A/`  
-개발환경: Atmel Studio
+개발환경: Microchip Studio (코드 작성) / AVR Studio 4 + USBasp (업로드)
+
+---
+
+### 🟦 ATmega1280
+
+| 카테고리             | 구현한 기능 |
+|----------------------|-------------|
+| I2C 수신 + 디스플레이 | 6채널 전압 수신 후 7세그먼트에 멀티플렉싱 출력 |
+
+📁 폴더: `ATmega1280/`  
+개발환경: Microchip Studio (코드 작성) / AVR Studio 4 + USBasp (업로드)
 
 ---
 
