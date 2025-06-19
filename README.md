@@ -49,7 +49,7 @@
 | I2C 수신 + 디스플레이 | 6채널 전압 수신 후 7세그먼트에 멀티플렉싱 출력 |
 
 🔗 세부 폴더:
-- [Atmega1280](./ATmega1280)
+- [Atmega1280](./Atmega1280)
   
 📁 폴더: `ATmega1280/`  
 개발환경: Microchip Studio (코드 작성) / AVR Studio 4 + USBasp (업로드)
