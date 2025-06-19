@@ -100,7 +100,7 @@ Portfolio/
 ├── MEC1723/
 ├── ATmega128A/
 ├── STM32L451VE/
-│ ├── can_test/
-│ └── sensor_system/
+│   ├── can_test/
+│   └── sensor_system/
 ├── STM32H503RB/
 └── README.md
