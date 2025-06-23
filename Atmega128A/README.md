@@ -17,7 +17,7 @@ ATmega128A를 기반으로 개발한 소형 임베디드 시스템 테스트 프
 ## ⚙️ 개발 환경
 
 - 개발 도구: **Microchip Studio**
-- 업로드 도구: **AVR Studio 4 + USBasp**
+- 업로드 도구: **AVR Studio 4 + AD-USBISP v7.0**
 - 사용 언어: **C (AVR-GCC)**
 - 플랫폼: **ATmega128A (8MHz 내장 클럭)**
 
