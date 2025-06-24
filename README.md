@@ -19,7 +19,6 @@
 | 2024.10 ~ 2024.12 | [`ATmega1280`](#atmega1280) |
 | 2025.01 ~ 2025.04 | [`ATmega128A / segment_display`](###atmega128a) |
 | 2025.01 ~ 현재 | [`Function Test`](#function-test) |
-<h2 id="function-test">⚙️ Function Test</h2>
 | 2025.05 ~ 현재    | [`MEC1723`](#mec1723) |
 
 ---
@@ -133,7 +132,7 @@
 
 ---
 
-# ⚙️ Function Test
+# <h2 id="function-test">⚙️ Function Test</h2>
 
 ---
 
